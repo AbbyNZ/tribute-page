@@ -1,0 +1,53 @@
+html,body {
+  font-family: "Georgia", serif;
+  text-align: center;
+  min-width: 260px;
+  color: black;
+}
+#heading {
+  text-align: left;
+  margin-top: 30px;
+}
+#main {
+  margin: 30px auto;
+  padding: 20px;
+  border: 0px solid;
+  border-radius: 10px;
+  background: #f7e1e6;
+}
+
+ul {
+  text-align: left;
+  max-width: 600px;
+}
+
+img {
+  display: block;
+  height: auto;
+  margin: auto;
+  max-width: 100%;
+}
+
+#img-div {
+  width: 100%;
+  border: 5px solid white;
+  margin: -5px;
+  margin-top: 15px;
+  background: white;
+}
+
+#img-caption {
+  margin: 10px;    
+}
+
+p {
+  text-align: justify;
+}
+ul {
+  margin: 0 auto;
+  text-align: left;
+}
+
+li {
+  margin: 10px;
+}
